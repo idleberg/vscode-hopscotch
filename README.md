@@ -8,7 +8,7 @@ Color scheme inspired by the Hopscotch learning platform for kids
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-hopscotch/master/images/screenshot.png)
 
-* Generic screenshot *
+*Generic screenshot*
 
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
