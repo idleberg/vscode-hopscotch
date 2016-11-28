@@ -6,7 +6,7 @@
 
 Color scheme inspired by the Hopscotch learning platform for kids 
 
-![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-hopescotch/master/preview.png)
+![Screenshot](https://raw.githubusercontent.com/idleberg/vscode-hopscotch/master/images/preview.png)
 
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
