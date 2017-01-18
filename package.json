@@ -1,53 +1,53 @@
 {
-    "name": "hopscotch",
-    "displayName": "Hopscotch (Official)",
-    "description": "Color scheme inspired by the Hopscotch learning platform for kids",
-    "version": "0.1.3",
-    "publisher": "idleberg",
-    "license": "CC0-1.0",
-    "author": {
-        "name": "Jan T. Sott",
-        "url": "http://github.com/idleberg"
-    },
-    "keywords": [
-        "hopscotch"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-hopscotch.git"
-    },
-    "homepage": "https://github.com/idleberg/vscode-hopscotch",
-    "bugs": {
-        "url": "https://github.com/idleberg/vscode-hopscotch/issues"
-    },
-    "icon": "images/logo.svg",
-    "galleryBanner": {
-        "color": "#d5d3d5"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Hopscotch",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch.tmTheme"
-            }
-        ]
-    },
-    "devDependencies": {
-        "gulp": "^3.9.1",
-        "gulp-debug": "^3.0.0",
-        "gulp-eslint": "^3.0.1",
-        "gulp-jsonlint": "^1.1.2",
-        "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.3"
-    },
-    "scripts": {
-        "test": "gulp lint"
-    }
+  "name": "hopscotch",
+  "displayName": "Hopscotch (Official)",
+  "description": "Color scheme inspired by the Hopscotch learning platform for kids",
+  "version": "0.1.3",
+  "publisher": "idleberg",
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "hopscotch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idleberg/vscode-hopscotch.git"
+  },
+  "homepage": "https://github.com/idleberg/vscode-hopscotch",
+  "bugs": {
+    "url": "https://github.com/idleberg/vscode-hopscotch/issues"
+  },
+  "icon": "images/logo.svg",
+  "galleryBanner": {
+    "color": "#d5d3d5"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hopscotch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hopscotch.tmTheme"
+      }
+    ]
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-jsonlint": "^1.2.0",
+    "gulp-xml-validator": "^0.1.2",
+    "vscode": "^1.0.3"
+  },
+  "scripts": {
+    "test": "gulp lint"
+  }
 }
