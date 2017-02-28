@@ -50,7 +50,7 @@ Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
 Download the package extension from the the [release page](https://github.com/idleberg/vscode-hopscotch/releases) and install it from the command-line:
 
 ```bash
-$ code --install-extension hopscotch.vsix
+$ code --install-extension hopscotch-*.vsix
 ```
 
 ### Clone Repository
