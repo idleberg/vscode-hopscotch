@@ -2,6 +2,7 @@
 
 [![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub](https://img.shields.io/github/release/idleberg/vscode-hopscotch.svg?style=flat-square)](https://github.com/idleberg/vscode-hopscotch/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.hopscotch.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)
 [![Travis branch](https://img.shields.io/travis/idleberg/atom-hopscotch/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-hopscotch)
 
 Color scheme inspired by the Hopscotch learning platform for kids 
