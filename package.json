@@ -33,22 +33,28 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hopscotch",
+                "label": "Hopscotch (Syntax Theme)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hopscotch.tmTheme"
+            },
+            {
+                "label": "Hopscotch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hopscotch.json"
             }
         ]
     },
     "devDependencies": {
         "gulp": "github:gulpjs/gulp#4.0",
         "gulp-debug": "^3.0.0",
-        "gulp-eslint": "^4.0.0",
         "gulp-jsonlint": "^1.2.0",
         "gulp-svg2png": "^2.0.2",
         "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.3"
+        "vscode": "^1.1.2"
     },
     "scripts": {
-        "test": "gulp lint"
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "gulp lint",
+        "vscode:prepublish": "gulp build"
     }
 }
