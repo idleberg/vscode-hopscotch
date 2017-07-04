@@ -36,11 +36,6 @@
                 "label": "Hopscotch (Syntax Theme)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hopscotch.tmTheme"
-            },
-            {
-                "label": "Hopscotch",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch.json"
             }
         ]
     },
