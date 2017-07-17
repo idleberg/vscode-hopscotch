@@ -1,3 +1,7 @@
+# v0.2.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.2.0)
+
+- switch to JSON theme format
+
 # v0.1.5 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.1.5)
 
 - use PNG logo (as required by upcoming versions of Code)
