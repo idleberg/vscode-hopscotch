@@ -33,7 +33,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Hopscotch (Syntax Theme)",
+                "label": "Hopscotch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hopscotch.json"
+            },
+            {
+                "label": "Hopscotch (TextMate Theme)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hopscotch.tmTheme"
             }
