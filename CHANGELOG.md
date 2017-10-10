@@ -1,3 +1,8 @@
+# v0.2.1 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.2.1)
+
+- update development toolchain
+- update Travis CI configuration
+
 # v0.2.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.2.0)
 
 - switch to JSON theme format
