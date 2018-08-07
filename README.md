@@ -1,8 +1,8 @@
 # Hopscotch for Visual Studio Code
 
-[![Creative Commons](https://flat.badgen.net/badge/license-CC0%201.0-orange)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Creative Commons](https://flat.badgen.net/badge/license/CC0%201.0/orange)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-hopscotch)](https://github.com/idleberg/vscode-hopscotch/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.hopscotch)](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.hopscotch.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.hopscotch)
 [![Travis branch](https://flat.badgen.net/travis/idleberg/atom-hopscotch/master)](https://travis-ci.org/idleberg/atom-hopscotch)
 
 Color scheme inspired by the Hopscotch learning platform for kids 
