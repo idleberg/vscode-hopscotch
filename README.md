@@ -13,7 +13,7 @@ Color scheme inspired by the Hopscotch learning platform for kids
 
 This extension now includes three versions of the theme:
 
-- Window theme (work in progress)
+- Window theme (*work in progress*)
 - Syntax theme
 - TextMate theme
 

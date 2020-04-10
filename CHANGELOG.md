@@ -1,6 +1,6 @@
 # v0.3.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.3.0)
 
-- style parts of the editor window (work in progress)
+- style parts of the editor window (*work in progress*)
 - rename old theme to "Syntax Theme"
 
 # v0.2.3 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.2.3)
