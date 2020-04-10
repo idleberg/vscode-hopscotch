@@ -1,3 +1,8 @@
+# v0.4.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.4.0)
+
+- add badge styles
+- change logo
+
 # v0.3.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.3.0)
 
 - style parts of the editor window (*work in progress*)
