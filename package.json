@@ -11,7 +11,6 @@
     },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
-        "precommit": "npm run test",
         "test": "vscode-linter",
         "vscode:prepublish": "gulp"
     },
@@ -51,11 +50,16 @@
         ]
     },
     "devDependencies": {
-        "gulp": "^4.0.0",
+        "gulp": "^4.0.2",
         "gulp-raster": "^0.2.0",
         "gulp-rename": "^1.2.2",
-        "husky": "^0.14.3",
+        "husky": "^4.2.5",
         "vscode": "^1.1.10",
-        "vscode-linter": "^0.2.1"
+        "vscode-linter": "^0.3.1"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "npm run test"
+        }
     }
 }
