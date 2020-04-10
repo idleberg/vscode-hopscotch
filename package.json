@@ -10,10 +10,9 @@
         "url": "http://github.com/idleberg"
     },
     "scripts": {
-        "build": "gulp",
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "vscode-linter",
-        "vscode:prepublish": "npm run build"
+        "vscode:prepublish": "npm run test"
     },
     "keywords": [
         "hopscotch"
@@ -57,9 +56,6 @@
         ]
     },
     "devDependencies": {
-        "gulp": "^4.0.2",
-        "gulp-raster": "^0.2.0",
-        "gulp-rename": "^2.0.0",
         "husky": "^4.2.5",
         "vscode": "^1.1.10",
         "vscode-linter": "^0.3.1"
