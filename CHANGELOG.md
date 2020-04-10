@@ -1,3 +1,7 @@
+# v0.4.1 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.4.1)
+
+- remove gulp build script
+
 # v0.4.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.4.0)
 
 - add badge styles
