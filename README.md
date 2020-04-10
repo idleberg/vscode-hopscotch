@@ -11,6 +11,12 @@ Color scheme inspired by the Hopscotch learning platform for kids
 
 *Generic screenshot*
 
+This extension now includes three versions of the theme:
+
+- Window theme (work in progress)
+- Syntax theme
+- TextMate theme
+
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 * [Atom](https://atom.io/themes/hopscotch)
