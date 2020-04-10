@@ -67,7 +67,7 @@
 		"textLink.foreground": "#829bd6",
 		"titleBar.activeBackground": "#171015",
 		"window.activeBorder": "#171015",
-		"window.inactiveBorder": "#171015",
+		"window.inactiveBorder": "#171015"
 	},
 	"tokenColors": [
 		{
