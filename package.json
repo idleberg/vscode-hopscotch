@@ -43,6 +43,11 @@
                 "path": "./themes/hopscotch.json"
             },
             {
+                "label": "Hopscotch (Syntax Theme)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hopscotch-syntax.json"
+            },
+            {
                 "label": "Hopscotch (TextMate Theme)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hopscotch.tmTheme"
