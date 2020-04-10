@@ -17,8 +17,10 @@
 		"editor.selectionHighlightBackground": "#4a3f5e",
 		"editorGroupHeader.tabsBackground": "#171015",
 		"editorLineNumber.foreground": "#b9b5b8",
+		"editorWidget.background": "#171015",
 		"extensionButton.prominentBackground": "#0b998c",
 		"extensionButton.prominentHoverBackground": "#59c9be",
+		"focusBorder": "#fdcb23",
 		"list.activeSelectionBackground": "#dd464c",
 		"list.hoverBackground": "#af393d",
 		"list.hoverForeground": "#fffde6",
@@ -65,7 +67,7 @@
 		"textLink.foreground": "#829bd6",
 		"titleBar.activeBackground": "#171015",
 		"window.activeBorder": "#171015",
-		"window.inactiveBorder": "#171015"
+		"window.inactiveBorder": "#171015",
 	},
 	"tokenColors": [
 		{
