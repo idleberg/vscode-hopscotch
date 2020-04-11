@@ -1,3 +1,8 @@
+# v0.5.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.5.0)
+
+- add Hopscotch Mono variant
+- rename other variants
+
 # v0.4.1 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.4.1)
 
 - remove gulp build script
