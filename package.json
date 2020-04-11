@@ -49,12 +49,12 @@
                 "path": "./themes/hopscotch-mono.json"
             },
             {
-                "label": "Hopscotch (Syntax Theme)",
+                "label": "Hopscotch Classic",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch-syntax.json"
+                "path": "./themes/hopscotch-classic.json"
             },
             {
-                "label": "Hopscotch (TextMate Theme)",
+                "label": "Hopscotch (TextMate)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/hopscotch.tmTheme"
             }

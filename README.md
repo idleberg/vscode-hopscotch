@@ -13,8 +13,9 @@ Color scheme inspired by the Hopscotch learning platform for kids
 
 This extension now includes severals versions of the theme:
 
-- 2 Window Themes (*work in progress*)
-- Syntax-only Theme
+- Hopscotch
+- Hopscotch Mono, a less colourful variant
+- Hopscoth Classic, a syntax-only theme
 - TextMate Theme
 
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
