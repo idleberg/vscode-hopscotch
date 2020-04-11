@@ -1,4 +1,15 @@
-.travis.yml
-gulpfile.js
-package-lock.json
+# Development
+*.map
+
+# Package managers
+bower_components/
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+shrinkwrap.yaml
+vendor/
 yarn.lock
+
+# Project specific
+*.vsix
+todo.md

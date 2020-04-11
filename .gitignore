@@ -1,7 +1,15 @@
-*.vsix
+# Development
+*.map
+
+# Package managers
 bower_components/
 node_modules/
 npm-debug.log*
-todo.md
+pnpm-lock.yaml
+shrinkwrap.yaml
 vendor/
 yarn.lock
+
+# Project specific
+*.vsix
+todo.md
