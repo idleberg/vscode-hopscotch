@@ -15,8 +15,8 @@ This extension now includes severals versions of the theme:
 
 - Hopscotch
 - Hopscotch Mono, a less colourful variant
-- Hopscoth Classic, a syntax-only theme
-- TextMate Theme
+- Hopscotch Classic, a syntax-only theme
+- TextMate
 
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
