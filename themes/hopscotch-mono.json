@@ -49,7 +49,7 @@
 		"statusBar.debuggingBackground": "#fd8b19",
 		"statusBar.foreground": "#fff",
 		"statusBar.noFolderBackground": "#171015",
-		"statusBarItem.remoteBackground": "171015",
+		"statusBarItem.remoteBackground": "#171015",
 		"tab.activeBackground": "#322931",
 		"tab.inactiveBackground": "#171015",
 		"terminal.ansiBlue": "#1290bf",
