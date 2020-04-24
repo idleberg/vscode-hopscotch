@@ -1,6 +1,7 @@
 {
 	"name": "Hopscotch Classic",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#322931",
 		"editor.foreground": "#b9b5b8"

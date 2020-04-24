@@ -1,6 +1,7 @@
 {
 	"name": "Hopscotch",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBackground": "#645287",
 		"activityBar.activeBorder": "#645287",

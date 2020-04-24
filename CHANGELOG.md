@@ -1,3 +1,7 @@
+# v0.6.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.6.0)
+
+- add support for [semantic highlighting](https://github.com/microsoft/vscode/wiki/Semantic-Highlighting-Overview)
+
 # v0.5.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.5.0)
 
 - add Hopscotch Mono variant
