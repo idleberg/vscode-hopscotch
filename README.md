@@ -11,7 +11,7 @@ Color scheme inspired by the Hopscotch learning platform for kids
 
 *Generic screenshot*
 
-This extension now includes severals versions of the theme:
+This extension now includes severals variants of the theme:
 
 - Hopscotch
 - Hopscotch Mono, a less colourful variant
