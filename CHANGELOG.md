@@ -1,3 +1,9 @@
+# v0.7.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.7.0)
+
+- add list colors
+- adjust terminal colors
+- adjust remote status bar item color
+
 # v0.6.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.6.0)
 
 - add support for [semantic highlighting](https://github.com/microsoft/vscode/wiki/Semantic-Highlighting-Overview)
