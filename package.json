@@ -44,9 +44,9 @@
 				"path": "./themes/Hopscotch.json"
 			},
 			{
-				"label": "Hopscotch (Proof Reader)",
+				"label": "Hopscotch [proofreader]",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Hopscotch (Proof Reader).json"
+				"path": "./themes/Hopscotch [proofreader].json"
 			},
 			{
 				"label": "Hopscotch Mono",
@@ -54,9 +54,9 @@
 				"path": "./themes/Hopscotch Mono.json"
 			},
 			{
-				"label": "Hopscotch Mono (Proof Reader)",
+				"label": "Hopscotch Mono [proofreader]",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Hopscotch Mono (Proof Reader).json"
+				"path": "./themes/Hopscotch Mono [proofreader].json"
 			},
 			{
 				"label": "Hopscotch Classic",

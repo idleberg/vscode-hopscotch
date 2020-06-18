@@ -18,6 +18,8 @@ This extension now includes severals variants of the theme:
 - Hopscotch Classic, a syntax-only theme
 - TextMate
 
+Additionally, *Hopscotch* and *Hopscotch Mono* are available available for proofreaders, highlighting only comments and strings.
+
 Also [available](https://github.com/idleberg/Hopscotch) for these apps:
 
 * [Atom](https://atom.io/themes/hopscotch)
