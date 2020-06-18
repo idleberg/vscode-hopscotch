@@ -1,3 +1,9 @@
+# v0.8.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.8.0)
+
+- add variants for proofreaders
+- rename theme files
+- update dependencies
+
 # v0.7.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.7.0)
 
 - add list colors
