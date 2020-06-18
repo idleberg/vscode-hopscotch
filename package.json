@@ -38,27 +38,37 @@
     ],
     "contributes": {
         "themes": [
-            {
-                "label": "Hopscotch",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch.json"
-            },
-            {
-                "label": "Hopscotch Mono",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch-mono.json"
-            },
-            {
-                "label": "Hopscotch Classic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch-classic.json"
-            },
-            {
-                "label": "Hopscotch (TextMate)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch.tmTheme"
-            }
-        ]
+			{
+				"label": "Hopscotch",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch.json"
+			},
+			{
+				"label": "Hopscotch (Proof Reader)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch (Proof Reader).json"
+			},
+			{
+				"label": "Hopscotch Mono",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch Mono.json"
+			},
+			{
+				"label": "Hopscotch Mono (Proof Reader)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch Mono (Proof Reader).json"
+			},
+			{
+				"label": "Hopscotch Classic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hopscotch-classic.json"
+			},
+			{
+				"label": "Hopscotch (TextMate)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/hopscotch.tmTheme"
+			}
+		]
     },
     "devDependencies": {
         "husky": "^4.2.5",
