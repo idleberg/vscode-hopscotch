@@ -38,41 +38,41 @@
     ],
     "contributes": {
         "themes": [
-			{
-				"label": "Hopscotch",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Hopscotch.json"
-			},
-			{
-				"label": "Hopscotch [proofreader]",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Hopscotch [proofreader].json"
-			},
-			{
-				"label": "Hopscotch Mono",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Hopscotch Mono.json"
-			},
-			{
-				"label": "Hopscotch Mono [proofreader]",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Hopscotch Mono [proofreader].json"
-			},
-			{
-				"label": "Hopscotch Classic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/hopscotch-classic.json"
-			},
-			{
-				"label": "Hopscotch (TextMate)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/hopscotch.tmTheme"
-			}
-		]
+            {
+                "label": "Hopscotch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hopscotch.json"
+            },
+            {
+                "label": "Hopscotch [proofreader]",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hopscotch [proofreader].json"
+            },
+            {
+                "label": "Hopscotch Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hopscotch Mono.json"
+            },
+            {
+                "label": "Hopscotch Mono [proofreader]",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hopscotch Mono [proofreader].json"
+            },
+            {
+                "label": "Hopscotch Classic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hopscotch-classic.json"
+            },
+            {
+                "label": "Hopscotch (TextMate)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hopscotch.tmTheme"
+            }
+        ]
     },
     "devDependencies": {
         "husky": "^4.2.5",
-        "vscode": "^1.1.10",
+        "vscode": "^1.1.37",
         "vscode-linter": "^0.3.1"
     },
     "husky": {
