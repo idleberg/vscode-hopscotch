@@ -61,12 +61,12 @@
             {
                 "label": "Hopscotch Classic",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch-classic.json"
+                "path": "./themes/Hopscotch Classic.json"
             },
             {
                 "label": "Hopscotch (TextMate)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/hopscotch.tmTheme"
+                "path": "./themes/Hopscotch.tmTheme"
             }
         ]
     },
