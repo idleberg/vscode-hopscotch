@@ -1,6 +1,6 @@
 # v0.8.1 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.8.1)
 
-- fix filename of classic and Textmate versions 
+- fix filename of classic and TextMate versions 
 
 # v0.8.0 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.8.0)
 
