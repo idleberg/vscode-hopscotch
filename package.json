@@ -10,7 +10,6 @@
         "url": "http://github.com/idleberg"
     },
     "scripts": {
-        "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "vscode-linter",
         "vscode:prepublish": "npm run test"
     },
@@ -72,7 +71,6 @@
     },
     "devDependencies": {
         "husky": "^4.2.5",
-        "vscode": "^1.1.37",
         "vscode-linter": "^0.3.1"
     },
     "husky": {
