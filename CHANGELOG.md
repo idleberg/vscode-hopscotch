@@ -1,3 +1,7 @@
+# v0.8.2 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.8.2)
+
+- switch background colors for active selection/hover in list
+
 # v0.8.1 [#](https://github.com/idleberg/vscode-hopscotch/releases/tag/0.8.1)
 
 - fix filename of classic and TextMate versions 
