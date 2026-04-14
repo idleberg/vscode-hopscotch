@@ -80,22 +80,14 @@
 	"tokenColors": [
 		{
 			"name": "Comments, Strings",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment",
-				"string"
-			],
+			"scope": ["comment", "punctuation.definition.comment", "string"],
 			"settings": {
 				"foreground": "#b9b5b8"
 			}
 		},
 		{
 			"name": "Classes, Storage, Variables",
-			"scope": [
-				"entity",
-				"storage",
-				"variable"
-			],
+			"scope": ["entity", "storage", "variable"],
 			"settings": {
 				"foreground": "#797379"
 			}

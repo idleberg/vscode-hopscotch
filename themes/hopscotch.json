@@ -93,10 +93,7 @@
 		},
 		{
 			"name": "Comments",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
+			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"foreground": "#797379"
 			}
@@ -131,10 +128,7 @@
 		},
 		{
 			"name": "Keywords",
-			"scope": [
-				"keyword",
-				"keyword.control"
-			],
+			"scope": ["keyword", "keyword.control"],
 			"settings": {
 				"foreground": "#c85e7c"
 			}
@@ -159,11 +153,7 @@
 		},
 		{
 			"name": "Classes",
-			"scope": [
-				"support.class",
-				"entity.name.class",
-				"entity.name.type"
-			],
+			"scope": ["support.class", "entity.name.class", "entity.name.type"],
 			"settings": {
 				"foreground": "#fdcc59"
 			}
@@ -288,10 +278,7 @@
 		},
 		{
 			"name": "Bold",
-			"scope": [
-				"markup.bold",
-				"punctuation.definition.bold"
-			],
+			"scope": ["markup.bold", "punctuation.definition.bold"],
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#fdcc59"
@@ -299,10 +286,7 @@
 		},
 		{
 			"name": "Italic",
-			"scope": [
-				"markup.italic",
-				"punctuation.definition.italic"
-			],
+			"scope": ["markup.italic", "punctuation.definition.italic"],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#c85e7c"
@@ -395,10 +379,7 @@
 		},
 		{
 			"name": "Embedded",
-			"scope": [
-				"punctuation.section.embedded",
-				"variable.interpolation"
-			],
+			"scope": ["punctuation.section.embedded", "variable.interpolation"],
 			"settings": {
 				"foreground": "#149b93"
 			}

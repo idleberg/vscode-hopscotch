@@ -1,82 +1,79 @@
 {
-    "name": "hopscotch",
-    "displayName": "Hopscotch",
-    "description": "Color scheme inspired by the Hopscotch learning platform for kids",
-    "version": "0.8.2",
-    "publisher": "idleberg",
-    "license": "CC0-1.0",
-    "author": {
-        "name": "Jan T. Sott",
-        "url": "http://github.com/idleberg"
-    },
-    "scripts": {
-        "test": "vscode-linter",
-        "vscode:prepublish": "npm run test"
-    },
-    "keywords": [
-        "hopscotch"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/idleberg/vscode-hopscotch"
-    },
-    "homepage": "https://github.com/idleberg/vscode-hopscotch#readme",
-    "bugs": {
-        "url": "https://github.com/idleberg/vscode-hopscotch/issues"
-    },
-    "icon": "images/logo.png",
-    "galleryBanner": {
-        "color": "#322931",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Hopscotch",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hopscotch.json"
-            },
-            {
-                "label": "Hopscotch [proofreader]",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hopscotch [proofreader].json"
-            },
-            {
-                "label": "Hopscotch Mono",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hopscotch Mono.json"
-            },
-            {
-                "label": "Hopscotch Mono [proofreader]",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hopscotch Mono [proofreader].json"
-            },
-            {
-                "label": "Hopscotch Classic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hopscotch Classic.json"
-            },
-            {
-                "label": "Hopscotch (TextMate)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hopscotch.tmTheme"
-            }
-        ]
-    },
-    "devDependencies": {
-        "husky": "^4.2.5",
-        "vscode-linter": "^0.3.1"
-    },
-    "husky": {
-        "hooks": {
-            "pre-commit": "npm run test"
-        }
-    },
-    "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
+	"name": "hopscotch",
+	"displayName": "Hopscotch",
+	"description": "Color scheme inspired by the Hopscotch learning platform for kids",
+	"version": "0.8.2",
+	"publisher": "idleberg",
+	"license": "CC0-1.0",
+	"author": {
+		"name": "Jan T. Sott",
+		"url": "http://github.com/idleberg"
+	},
+	"scripts": {
+		"lint": "biome check",
+		"vscode:prepublish": "npm run test"
+	},
+	"keywords": [
+		"hopscotch"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/idleberg/vscode-hopscotch"
+	},
+	"homepage": "https://github.com/idleberg/vscode-hopscotch#readme",
+	"bugs": {
+		"url": "https://github.com/idleberg/vscode-hopscotch/issues"
+	},
+	"icon": "images/logo.png",
+	"galleryBanner": {
+		"color": "#322931",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hopscotch",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch.json"
+			},
+			{
+				"label": "Hopscotch [proofreader]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch [proofreader].json"
+			},
+			{
+				"label": "Hopscotch Mono",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch Mono.json"
+			},
+			{
+				"label": "Hopscotch Mono [proofreader]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch Mono [proofreader].json"
+			},
+			{
+				"label": "Hopscotch Classic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch Classic.json"
+			},
+			{
+				"label": "Hopscotch (TextMate)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hopscotch.tmTheme"
+			}
+		]
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^20.5.0",
+		"@commitlint/config-conventional": "^20.5.0",
+		"@idleberg/configs": "^0.4.2",
+		"sharp-cli": "^5.2.0"
+	},
+	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
 }
